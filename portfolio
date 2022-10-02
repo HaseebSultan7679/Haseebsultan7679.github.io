@@ -1,0 +1,56 @@
+<!doctype html>
+
+
+
+<html lang="en">
+
+<header>
+
+  <title>Haseeb Sultan Portal</title>
+  >
+  <link rel="stylesheet" href="css/master.css">
+  <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="name" content="Haseeb Sultan Portal">
+  <!-- remove the following line after you are happy with your Website
+       so that search engines will index it! -->
+  <meta name="robots" content="noindex, nofollow">
+</header>
+
+<body>
+  <!-- add the banner image here -->
+
+
+  <!-- add the name for the website -->
+  <h1>Haseeb Sultan Portal</h1>
+
+  <!-- add a section called "About Me" -->
+  <h2>About Me</h2>
+
+  <!-- add a few paragraph lines to describe you -->
+  <p>I am a student in Fast Nuces in Islamabad,Pakistan.</p> <!-- where do you live? -->
+  <p>I have done my FSc from APS Ord Rd in Engineering.</p> <!-- Where studying/studied? -->
+  <p>I am currently the studying Compter Science.</p> <!-- current job or current school year? -->
+
+  <!-- add a section called "Credentials and Portofolio -->
+  <h2>Credentials and Portfolio</h2>
+
+  <!-- add two hyperlinks to resume page and github page separated by a vertical line -->
+  <p><a href="resume">My Resume</a>
+
+  <h2>Contact</h2>
+
+  <!-- add a link to let visitor to send you an email easily! -->
+  <p>Email: <a href="mailto:i220874@nu.edu.pk" target="_blank">i220874@nu.edu.pk</a></p>
+
+  <!-- don't post physical address, personal phone number or other personal information on the web! -->
+</body>
+
+<footer>
+  <hr>
+  <!-- change the name to yours! -->
+  <code>Copyright (C) 2020 Haseeb Sultan</code>
+</footer>
+
+</html>
